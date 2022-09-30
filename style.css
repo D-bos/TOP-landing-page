@@ -1,0 +1,50 @@
+body {
+	display: flex;
+	flex-direction: column;
+}
+
+.logolinks {
+	display: flex;
+	justify-content: space-between;
+}
+
+ul {
+	list-style-type: none;
+}
+a {
+	text-decoration: none;
+}
+.midheader {
+	display:flex
+}
+ 
+.placeholder {
+	display: flex;
+	align-self: center;
+}
+
+.body {
+	display:flex;
+	flex-direction: column;
+}
+ 
+.frames {
+	display: flex;
+}
+ 
+.action {
+	display: flex;
+	justify-content: center;
+	align-content:center;
+}
+
+.button {
+	display: flex;
+	align-self: center;
+}
+
+.footer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
