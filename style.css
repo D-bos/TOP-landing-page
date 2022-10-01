@@ -3,7 +3,7 @@ body {
 	flex-direction: column;
 }
 
-.logolinks {
+.upperHeader {
 	display: flex;
 	justify-content: space-between;
 }
@@ -14,7 +14,7 @@ ul {
 a {
 	text-decoration: none;
 }
-.midheader {
+.lowerHeader {
 	display:flex
 }
  
